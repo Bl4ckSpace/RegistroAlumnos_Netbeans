@@ -1,5 +1,6 @@
-package com.mycompany.registroalumnos;
+package com.mycompany.registroalumnos.vista;
 
+import com.mycompany.registroalumnos.modelo.Alumno;
 import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
 

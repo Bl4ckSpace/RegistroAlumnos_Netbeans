@@ -1,4 +1,4 @@
-package com.mycompany.registroalumnos;
+package com.mycompany.registroalumnos.modelo;
 
 /**
  * Modelo de datos: representa a un alumno registrado.

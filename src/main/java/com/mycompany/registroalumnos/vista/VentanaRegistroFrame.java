@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package com.mycompany.registroalumnos;
+package com.mycompany.registroalumnos.vista;
 
 /**
  *
@@ -218,8 +218,6 @@ public class VentanaRegistroFrame extends javax.swing.JFrame {
                 .addComponent(pnlAlumnos, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(193, Short.MAX_VALUE))
         );
-
-        chkCondiciones.getAccessibleContext().setAccessibleName("Vengo de otro instituto");
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
